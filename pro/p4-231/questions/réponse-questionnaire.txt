@@ -1,0 +1,43 @@
+1. LPD signifie Loi sur la protections des données
+
+2 Ordonnance relative à loi de la protection des données. Cette ordonnances sers à préciser la loi, à la rendre plus précises et donc mieux protéger les données dans ce cadre-ci.
+
+3. Une personne physique est un civil, une personne tout court, un être humain qui vis et qui respire comme on connaît.
+
+Une pesonne morale est une entreprise, une enseigne, une coopérative, une organisation. En gros une personne qui n'est pas en soit un être humain directement.
+
+4. Tout ce qui concerne la vie intime (genre et orientation sexuelle).
+    Les peines et ce qui concerne ce qu'on a pu avoir en tant qu'embrouille avec la justice par exemple également.
+    Les avis politiques, l'origine sont également considérée comme sensibles.
+
+5. Lorsque des données dites sensibles sont collectées. Quand en gros p.ex le navigateur a à-peu-près cerné notre orientation politique, sexuelle et.c.. par exemple.
+
+6. Son constement éclairé et explicite.
+
+7.
+
+8. Il faut être en accord avec ce qu'accepte le client en terme de données.  Sinon le "mandant" est responsable.
+
+9. Privacy-by-design signifie qu'on dois mettre en place des mesures de sécurité et de protection des données personnelles "par design" donc à la création d'un projets.
+
+Privacy-by-Default est ce qui défini le minimum légale de cette protection-là.
+
+10. Tout d'abord la personne doit être au courant que ses données sont traitées.
+Ensuite, elle dois savoir à quoi sers le traitement de ses données, à qui ses données peuvent être transmises et les conditions de conservation et d'effacement de ses données. Elle doit aussi connaître ses droits par rapport aux données qui ont été récoltées sur elle.
+
+11. En gros, ca signifie que en tant que "mandant" on doit fournir les explications necessaires et plus précises au client pourqu'il soit vraiment au courant de ce qu'il se passe avec ses données etc.
+
+12. C'est le droit de pouvoir récupérer ses données, et de les visualiser, lire ou autre facilement et de manière accessibles.
+
+C'est l'obligation pour les entreprises de pouvoir par exemple, transmettre au format PDF, ou autre aux clients s'ils le demandent.
+
+13. Les données doivent être existante, dans le même état que lors de leurs collecte (pas d'altération).
+Les données ne doivent pas avoir été divulguées à une entreprise explicitement mentionnées comme pouvant y avoir accès.
+Elles ne doivent d'ailleurs pas avoir été accessible à d'autres personne morale que ce qui est explicitement mentionnés par l'entreprise.
+
+Article de la loi : violation de la sécurité des données: toute violation de la sécurité entraînant
+de manière accidentelle ou illicite la perte de données personnelles, leur mo-
+dification, leur effacement ou leur destruction, leur divulgation ou un accès
+non autorisés à ces données; C'est donc ceci qu'on doit observer.
+
+14. Sanctions pénales et administratives. Prison, amende....
