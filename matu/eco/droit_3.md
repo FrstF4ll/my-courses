@@ -1,4 +1,5 @@
 
+
 # Test d'économie et droits
 ## Caractéristiques des drotis politiques suisse
 Le peuple a différente manière d'agir sur son droit, et de changer les 'règles' imposées par la société. Il existe des procédures qui permettent de changer les lois, la constitution à différents degrés.
@@ -28,7 +29,7 @@ Ce droit est à inclure de manière systématique dans ces situations précises.
 
 **Constitutionnel obligatoire:** La modification de la constitution est soumise à la double majorité. Les autorités ont donc l'obligations formelles d'inclure le vote du peuple.
 
-**conventionnel obligatoire:** Lorsque la suisse adhère à une organisation ou un groupe supranational, les autorités ontl'obligations formelle d'inclure le vote du peuple.
+**conventionnel obligatoire:** Lorsque la suisse adhère à une organisation ou un groupe supranational, les autorités ont l'obligations formelle d'inclure le vote du peuple.
 
 #### Facultatif
 Ce droit n'est pas obligatoire. On peut consulter le peuple sous réserve de conditions différentes.
@@ -49,18 +50,72 @@ L'assemblée fédérale peut proposer un **contre-projet**. Une alternative au t
 ### Qui sont les 3 pouvoirs.
 
 **Pouvoir executif**: Faire appliquer les lois. Conféré aux **conseils**
+**Fédéral**
+- Planifier les activité de l'état
+- Proposer les projets de lois à l'Assemblée fédérale.
+- Gestion financière
+- signature et ratification (valider) des traités internationaux.
+- Mesure de sécurité intérieure et extérieure. Assurer l'indpendance et la neutralité de la suisse.
+- Fonctionne en permanence
+- Débats confidentiels.
+**Cantonal**
+- 5 ou 7 membres
+- Présidé par les membres
+**Communal**
+- groupe de 3, 5 ou 7 membes
+- Présidé par un président de commune (mair, syndic, président..)
 **Pouvoir judiciaire**: Faire respecter les lois. Conféré aux **tribunaux**
+
 **Pouvoir législatif**: Voter et élaborer des lois. Conféré aux **parlements**
+**Fédéral**
+- Créer des lois, ordonnances et arrêtés.
+- Approuver de straités et definir des relations internationale
+- Approuver les conventions entre les cantons (les accords)
+- Controler l'efficacité et l'exercice des tâches des autres instances.
+- Débats publics en général
+**Cantonal**
+- Dépend des tâches attribuées par la constitution fédrale.
+- Gérer le domaine scolaire, religieux et fiscal (impôt etc).
+**Communal**
+- Dépend de la constitution du canton.
 
 ### Qui possède ces 3 pouvoirs
 
 #### Niveau fédéral
-**Législatif**: Assemblée fédérale (Conseil national(200 membres) + Conseil des Etats (46 membres)). Elus par le peuple
+##### Législatif
+- Assemblée fédérale 
+- Composé du Conseil national et Conseil des Etats.
+- Elus par le peuple
+- Conseil national(Chambre basse)
+    - 200 conseillers
+    - Nombre de conseillers par canton proportionnel à sa population.
+- Conseil des Etats(Chambre haute)
+    - 46 conseillers
+    - 2 représentant par canton sauf les 'demi' canton (qui eux en ont un seul)
+- Deux chambres s'organisent séparement
+    - 4 session parlementaires de 3 semaines ordinaires.
+    - Quelques autres extraordinaires
+- Pour l'election d'un conseillers ou juge fédérale, elles se reunissent en Assemblée fédérale.
+
 **Executif**: Conseil fédéral.
+- 7 conseillers fédéraux dont 1 président
+- Elus pour 4 ans
+- Président elu tous les ans.
+    - Fait office de représentant
+    - N'a aucun autre pouvoir par rapport aux autres conseillers.
+- Chaque conseillers à un départements
+- Dispose d'une chancellerie fédérale
+    - Secrétariat du Conseil fédéral.
+    - Assure la publication des loi et ordonnances.
+    - Organise votations et elections des conseillers.
 **Judiciaire**: Tribunal fédéral
+- Deux instances
 
 #### Niveau cantonal
-**Législatif**: Parlement cantonal / Grand Conseil. 
+**Législatif**:
+- Parlement cantonal / Grand Conseil. 
+- **Landsgemeinde** dans les cantons comme appenzell R.inf. et Glaris
+    - Assemblée de citoyen qui se rassemblent et prennent les décisions à mains levées
 **Executif**: Conseil d'Etat / Gouvernement cantonal
 **Judiciaire** Tribunal cantonal
 
@@ -83,7 +138,7 @@ L'assemblée fédérale peut proposer un **contre-projet**. Une alternative au t
 
 ### Fédéralisme
 - Le pouvoir est partagé entre un pouvoir central et les cantons. (pour la suisse).
-- Cantons et communes gardent de l'autonomie, ils ne sont pas aussi réstreint en tout cas que dans un système à Etat Central.
+- Cantons et communes gardent de l'autonomie, ils ne sont pas aussi réstreint en tout cas que dans un système à Etat Central
 
 #### Avantages
 
