@@ -144,7 +144,7 @@ Qui sont les 3 pouvoirs.
 ## Termes et définitions
 
 ### Péréqualité / Péréquation
-Ce principe sert à donner le même niveau d'influence aux deux chambres de l'Assemblée fédérale. C'est un principe que la Suisse respecte afin de garantir une équité et égali
+Ce principe sert à donner le même niveau d'influence aux deux chambres de l'Assemblée fédérale. C'est un principe que la Suisse respecte afin de garantir une équité et égalité entre les cantons.
 
 ### Péréquation financière
 
