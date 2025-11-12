@@ -1,4 +1,4 @@
-# 🇨Test d'économie et droits
+# Test d'économie et droits
 
 ## Caractéristiques des droits politiques suisse
 
@@ -20,7 +20,7 @@ Le droit de vote est le droit du citoyens d'accepter, de refuser ou de s'absteni
 Le droit de pétition, c'est le droit que tous les citoyens ont de soumettre un document, une demande ou un problème à l'état **sans en subir de préjudice**.
 
 * L'état à l'obligation de **prendre connaissance** de la pétition. Il n'est néanmoins **pas obligé d'agir**.
-
+* La pétition peut être signée par toute personne peu importe son âge sa citoyenneté et son discernement.
 ---
 
 ### Le referendum
@@ -99,7 +99,7 @@ Qui sont les 3 pouvoirs.
 | | **Fonctionnement** | Deux chambres s'organisent séparement. 4 session parlementaires de 3 semaines ordinaires. Quelques autres extraordinaires. Pour l'election d'un conseillers ou juge fédérale, elles se reunissent en **Assemblée fédérale**. |
 | **Exécutif** | **Conseil fédéral** | **7 conseillers fédéraux** dont 1 président. Élus pour 4 ans. Président élu tous les ans (fait office de représentant, n'a aucun autre pouvoir par rapport aux autres conseillers). Chaque conseillers à un départements. |
 | | **Chancellerie fédérale** | Secrétariat du Conseil fédéral. Assure la publication des loi et ordonnances. Organise votations et elections des conseillers. |
-| **Judiciaire** | **Tribunal fédéral** | |
+| **Judiciaire**  **Tribunal fédéral** | |
 
 ### Niveau cantonal
 
@@ -142,6 +142,9 @@ Qui sont les 3 pouvoirs.
 ***
 
 ## Termes et définitions
+
+### Péréqualité / Péréquation
+Ce principe sert à donner le même niveau d'influence aux deux chambres de l'Assemblée fédérale. C'est un principe que la Suisse respecte afin de garantir une équité et égali
 
 ### Péréquation financière
 
