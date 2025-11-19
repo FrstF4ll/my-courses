@@ -134,7 +134,7 @@ Il aurait dit que s'il avais 2 carreaux et qu'il aurait touché son fils, le deu
 Naît alors le symbole de l'arbalète.
 
 Guillaume Tell finira par servir de Héro national.
-Ah et il na' aps existé si jamais lui.
+Ah et il n'a' aps existé si jamais lui.
 
 
 
