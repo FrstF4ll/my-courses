@@ -20,3 +20,7 @@ Les barrette de RAM se mettent en 'décalé', car les entrée pour ces barrettes
 Pour de la bureautique, on pense ouvent a minimum 16Gb de RAM
 
 On préconise des barrette identique car sinon on va avoir des soucis niveau fréquence etc.
+
+Regarder la latence et faire en sorte d'avoir la même latence dans toute nos barettes.
+
+Une barette trop rapide ou trop lente par rapport à l'autre peut poser problème.
