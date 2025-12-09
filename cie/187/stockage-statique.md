@@ -53,3 +53,7 @@ On peut l'assimiler à du SSD, c'est un fonctionnement en Flash, c'st souvent mo
 # Cartes mémoire (micro sd)
 
 Besoin de lecteur spécifique, encore un autre support de stockage, tres tres petit comparé au reste.
+
+# Stockage sur CD
+
+Sur des disque, avec des lecteur,s laser, tout ça, osef.
