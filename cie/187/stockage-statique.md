@@ -45,3 +45,7 @@ Température
 SATA : Plus d'actualité
 
 PCIExpress : Peut être plus rapide qu'un M2
+
+# Les clé USB
+
+On peut l'assimiler à du SSD, c'est un fonctionnement en Flash, c'st souvent moins performant en terme de vitesse d'écriture, genre vraiment beaucoup moins car c'est plus focus portable.
