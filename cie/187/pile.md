@@ -9,3 +9,5 @@ Aujourd'hui **la pile sers à garder la date et l'heure à jour.**
 **Enlever la pile de nos jours permet de reset le mot de passe admin, mais pas le bios ou en tout cas pas systématiquement.**
 
 **La pile ne fournis l'electricité que si le PC est éteint**
+
+DAns un laptop, c'est la batterie qui accomplis la tâche de gérer la date et l'heure, puisqu'il a déjà ce système de gestion electrique sans avoir à être cablé.
