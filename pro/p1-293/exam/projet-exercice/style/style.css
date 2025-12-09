@@ -1,0 +1,41 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (max-height: 10àé) {}
+
+header,
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #09B909;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+img {
+    block-size: 40vh;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    overflow: auto;
+}
