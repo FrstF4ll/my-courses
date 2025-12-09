@@ -39,3 +39,9 @@ Les désavantages sont donc principalement :
 
 Nombre d'écriture
 Température 
+
+## Annexe
+
+SATA : Plus d'actualité
+
+PCIExpress : Peut être plus rapide qu'un M2
